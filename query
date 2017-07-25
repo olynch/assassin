@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+./dist/build/assassin/assassin -q -g game.json -p $1
+echo "Press enter when finished reading"
+read $enter
+clear

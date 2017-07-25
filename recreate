@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+./dist/build/assassin/assassin -i names.json -o game.json
